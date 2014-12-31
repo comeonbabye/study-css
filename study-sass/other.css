@@ -1,0 +1,26 @@
+@charset "UTF-8";
+/*
+*body背景和字体设置
+*/
+body {
+  background: #eee;
+  font-size: 12px; }
+
+p {
+  background: #0982c3; }
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none; }
+nav li {
+  display: inline-block; }
+nav a {
+  display: block;
+  padding: 6px 12px;
+  text-decoration: none; }
+
+.block {
+  color: orange; }
+
+/*# sourceMappingURL=other.css.map */

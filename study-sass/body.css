@@ -1,0 +1,12 @@
+@charset "UTF-8";
+/*
+*body背景和字体设置
+*/
+body {
+  background: #eee;
+  font-size: 12px; }
+
+p {
+  background: #0982c3; }
+
+/*# sourceMappingURL=body.css.map */
